@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shrey</h1>
 
-- I am an **undergraduate student** pursuing Integrated Masters in Information Technology and Bussiness Administration at **IIIT Gwalior**, and my forte is **Software Development**. 
+- I am an **undergraduate student** pursuing Bachelors in Information Technology at **IIIT Gwalior**, and my forte is **Software Development**. 
 
 - I am an avid contributor in development projects and like to learn new technologies in the process. 
 
@@ -14,8 +14,8 @@
 <p align="left">
 <a href="https://twitter.com/_shreygupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_shreygupta" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gupta-shrey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gupta-shrey" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/gupta-shrey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="gupta-shrey" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/gupta-shrey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gupta-shrey" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/gupta-shrey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="gupta-shrey" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
