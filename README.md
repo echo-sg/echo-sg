@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Shrey</h1>
 
-- I am an **undergraduate student** pursuing Bachelors in Information Technology at **IIIT Gwalior**, and my forte is **Software Development**. 
+<!-- - I am an **undergraduate student** pursuing Bachelors in Information Technology at **IIIT Gwalior**, and my forte is **Software Development**.  -->
 
 - I am an avid contributor in development projects and like to learn new technologies in the process. 
-
+<!-- 
 - I am also interested in **Computer Networks**, **Information Security** and **System Design**.
 
-- I’m currently exploring **Backend Tech** and **Open Source.**
+- I’m currently exploring **Backend Tech** and **Open Source.** -->
 
 - Reach out to me at **shrey.iiitmg@gmail.com**
-
+<!-- 
 <h3 align="left">Find me on:</h3>
 <p align="left">
 <a href="https://twitter.com/_shreygupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_shreygupta" height="30" width="40" /></a>
@@ -26,3 +26,4 @@
 <a href="https://docs.soliditylang.org/en/v0.8.1/" target="_blank"> <img src="https://docs.soliditylang.org/en/v0.4.12/_images/logo.svg" alt="ipfs" width="40" height="40"/> </a>
 
 </p>
+ -->
